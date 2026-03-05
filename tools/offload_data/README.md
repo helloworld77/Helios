@@ -1,5 +1,5 @@
 # <u>Data Preprocessing Pipeline</u> by *Helios*
-This repository describes the data preprocessing pipeline used in the [Helios](https://arxiv.org/abs/XXXX.XXXXX) paper.
+This repository describes the data preprocessing pipeline used in the [Helios](https://arxiv.org/abs/2603.04379) paper. And we prepare a toy training data [here](https://huggingface.co/BestWishYsh/HeliosBench-Weights/tree/main/demo_data).
 
 
 ## ⚙️ Requirements and Installation

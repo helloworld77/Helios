@@ -384,7 +384,7 @@ We use a three-stage progressive pipeline, all the setting can be found [here](.
 
 ### Data Preparation
 
-Please refer to [this guide](./tools/offload_data/README.md) for how to obtain the training data required by Helios.
+Please refer to [this guide](./tools/offload_data/README.md) for how to obtain the training data required by Helios. And we prepare a toy training data [here](https://huggingface.co/BestWishYsh/HeliosBench-Weights/tree/main/demo_data).
 
 ### Run the model
 
