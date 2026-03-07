@@ -60,7 +60,10 @@ or you can click <a href="https://github.com/PKU-YuanGroup/Helios-Page/blob/main
 <details open><summary>💡 We also have other video generation projects that may interest you ✨. </summary><p>
 <!--  may -->
 
-
+> [**Open-Sora Plan: Open-Source Large Video Generation Model**](https://arxiv.org/abs/2412.00131) <br>
+> Bin Lin, Yunyang Ge and Xinhua Cheng etc. <br>
+[![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/PKU-YuanGroup/Open-Sora-Plan)  [![github](https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan.svg?style=social)](https://github.com/PKU-YuanGroup/Open-Sora-Plan) [![arXiv](https://img.shields.io/badge/Arxiv-2412.00131-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2412.00131) <br>
+>
 > [**OpenS2V-Nexus: A Detailed Benchmark and Million-Scale Dataset for Subject-to-Video Generation**](https://arxiv.org/abs/2505.20292) <br>
 > Shenghai Yuan, Xianyi He and Yufan Deng etc. <br>
 > [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/PKU-YuanGroup/OpenS2V-Nexus)  [![github](https://img.shields.io/github/stars/PKU-YuanGroup/OpenS2V-Nexus.svg?style=social)](https://github.com/PKU-YuanGroup/OpenS2V-Nexus) [![arXiv](https://img.shields.io/badge/Arxiv-2505.20292-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2505.20292) <br>
