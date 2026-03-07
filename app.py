@@ -128,7 +128,7 @@ CSS = """
 .contain { max-width: 1350px; margin: 0 auto !important; }
 """
 
-with gr.Blocks(css=CSS, title="Helios Video Generation", theme=gr.themes.Soft()) as demo:
+with gr.Blocks(title="Helios Video Generation") as demo:
     gr.HTML(
         """
         <div style='display: flex; align-items: center; justify-content: center; width: 100%;'>
@@ -267,5 +267,4 @@ with gr.Blocks(css=CSS, title="Helios Video Generation", theme=gr.themes.Soft())
     )
 
 if __name__ == "__main__":
-    # demo.launch(share=True, allowed_paths=["./examples"])
-    demo.launch(share=True)
+    demo.launch(share=True, css=CSS, theme=gr.themes.Soft())
